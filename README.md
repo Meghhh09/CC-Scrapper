@@ -41,9 +41,9 @@ pip install aiogram==2.6
 ## Configuration
 
 1. Open the script with your favorite text editor.
-2. Find the line that contains `BOT_TOKEN = '123456:ABCDEFGHIJLLJOdMttZ5hEZ78'`.
+2. Find the line that contains `BOT_TOKEN = '7175776432:AAH5bDrFTMyqRVY7fqP6k8c9h4JxoODwDS0'`.
 3. Replace the placeholder token with your actual Telegram bot token.
-3. Replace The `api_id`, `api_hash`, and `phone_number`
+3. Replace The 25399962, `e3b58a3cef356581fa7285db410d03f2`, and `9979489199`
 4. Optional Also you can change this `admin_ids`, `admin_limit` For Admin Scrape Limit . `default_limit` for others user
 
 ## Deploy the Bot
